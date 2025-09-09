@@ -78,19 +78,30 @@ This dataset ecosystem enables the creation of three interactive dashboards: Cus
   - Synthesized the visual analysis into actionable insights written directly on the dashboards.  
   - Key findings included pinpointing underperforming products (PIZB0005 & PIZB0006), linking order-related issues to customer complaints, and providing a framework to evaluate the ROI of discount strategies on a per-agent basis.  
 
-## **Key Insights**
+## **Dashboard Previews**  
 
-### **Financial & Product Performance**
-- **Underperforming Products**: PIZB0005 (₹10,677 revenue, ₹628 avg. sales) and PIZB0006 (₹5,077 revenue, ₹564 avg. sales) were identified as significant underperformers, signaling candidates for strategic review or discontinuation.  
-- **Revenue Concentration**: 73% of sales occur within the ₹500–₹900 range, highlighting this as the core pricing sweet spot and a key segment for retention and upselling.  
-- **Volume vs. Value Discrepancy**: While the *Large Paneer Tikka Pizzabun* drove high order volumes, the standard *Paneer Tikka Pizzabun* generated higher total revenue, underscoring the distinction between popularity and profitability.  
-- **Sales Trend Decline**: Despite stable average ticket sizes (~₹5,000), overall sales volumes declined after July, reflecting possible product mix shifts or increased discounting pressure.  
+### Customer Service Dashboard
+<img width="4095" height="2131" alt="Image" src="https://github.com/user-attachments/assets/85ff799b-1faf-4b70-a1da-e9ac113eea62" />
+
+### Finance Dashboard
+<img width="4096" height="2224" alt="Image" src="https://github.com/user-attachments/assets/d11dc916-c3f0-4848-a7ac-be03c198959f" />
+
+### Orders Management Dashboard
+<img width="4096" height="2212" alt="Image" src="https://github.com/user-attachments/assets/44f68744-d4ff-43d5-82c7-3625d803943b" />
+
+## **Key Insights**
 
 ### **Customer Service Drivers & Agent Performance**
 - **Interaction Mix**: Requests (53%) and Queries (38%) dominate customer contact, while Complaints remain limited (9%).  
 - **Non-Order Related Issues**: A substantial portion of queries and complaints are unrelated to orders, indicating friction in pre-sales information and general support.  
 - **Agent CSAT Gap**: Satisfaction scores varied, with Adrien Martin (7.3) outperforming peers Albain Forestier and Roch Cousineau (6.9), highlighting training and coaching opportunities.  
 - **Service Quality by Contact Type**: Requests achieved the highest CSAT (7.2), compared to Queries (6.9) and Complaints (6.6), showing dissatisfaction is most pronounced in complaint handling.  
+
+### **Financial & Product Performance**
+- **Underperforming Products**: PIZB0005 (₹10,677 revenue, ₹628 avg. sales) and PIZB0006 (₹5,077 revenue, ₹564 avg. sales) were identified as significant underperformers, signaling candidates for strategic review or discontinuation.  
+- **Revenue Concentration**: 73% of sales occur within the ₹500–₹900 range, highlighting this as the core pricing sweet spot and a key segment for retention and upselling.  
+- **Volume vs. Value Discrepancy**: While the *Large Paneer Tikka Pizzabun* drove high order volumes, the standard *Paneer Tikka Pizzabun* generated higher total revenue, underscoring the distinction between popularity and profitability.  
+- **Sales Trend Decline**: Despite stable average ticket sizes (~₹5,000), overall sales volumes declined after July, reflecting possible product mix shifts or increased discounting pressure.  
 
 ### **Operational & Weekly Trends**
 - **Order & Revenue Profile**: Across 794 orders, the business generated ₹2,38,246 in revenue with average revenue per order at ₹300.06 and average discount at ₹251.92.  
