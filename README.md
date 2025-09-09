@@ -1,8 +1,12 @@
 # Excel Dashboard Suite: Customer Service, Finance & Orders - A Data-Driven Exploration in Dashboard Design
 
 This project is a suite of three interactive Excel dashboards: Customer Service, Finance, and Orders Management, built to showcase how spreadsheet tools can transform raw business data into actionable insights. By combining KPI tracking, time-series analysis, and interactive filtering, the dashboards provide a 360-degree view of a food chain’s operations, covering sales performance, customer satisfaction, and financial trends. The project leverages advanced Excel features such as PivotTables, PivotCharts, Slicers, and Conditional Formatting to deliver clean, user-friendly, and data-driven decision support.
-
-Access the Dashboards
+<br>
+</br>
+<img width="2000" height="350" alt="Image" src="https://github.com/user-attachments/assets/50fb341b-bbbb-4664-af9e-eb22dbedce36" />
+<br>
+</br>
+### Access the Dashboards
 
 If you’d like to directly explore the interactive dashboards and project files, you can access them here:
 
@@ -91,17 +95,17 @@ This dataset ecosystem enables the creation of three interactive dashboards: Cus
 
 ## **Key Insights**
 
-### **Customer Service Drivers & Agent Performance**
-- **Interaction Mix**: Requests (53%) and Queries (38%) dominate customer contact, while Complaints remain limited (9%).  
-- **Non-Order Related Issues**: A substantial portion of queries and complaints are unrelated to orders, indicating friction in pre-sales information and general support.  
-- **Agent CSAT Gap**: Satisfaction scores varied, with Adrien Martin (7.3) outperforming peers Albain Forestier and Roch Cousineau (6.9), highlighting training and coaching opportunities.  
-- **Service Quality by Contact Type**: Requests achieved the highest CSAT (7.2), compared to Queries (6.9) and Complaints (6.6), showing dissatisfaction is most pronounced in complaint handling.  
-
 ### **Financial & Product Performance**
 - **Underperforming Products**: PIZB0005 (₹10,677 revenue, ₹628 avg. sales) and PIZB0006 (₹5,077 revenue, ₹564 avg. sales) were identified as significant underperformers, signaling candidates for strategic review or discontinuation.  
 - **Revenue Concentration**: 73% of sales occur within the ₹500–₹900 range, highlighting this as the core pricing sweet spot and a key segment for retention and upselling.  
 - **Volume vs. Value Discrepancy**: While the *Large Paneer Tikka Pizzabun* drove high order volumes, the standard *Paneer Tikka Pizzabun* generated higher total revenue, underscoring the distinction between popularity and profitability.  
 - **Sales Trend Decline**: Despite stable average ticket sizes (~₹5,000), overall sales volumes declined after July, reflecting possible product mix shifts or increased discounting pressure.  
+
+### **Customer Service Drivers & Agent Performance**
+- **Interaction Mix**: Requests (53%) and Queries (38%) dominate customer contact, while Complaints remain limited (9%).  
+- **Non-Order Related Issues**: A substantial portion of queries and complaints are unrelated to orders, indicating friction in pre-sales information and general support.  
+- **Agent CSAT Gap**: Satisfaction scores varied, with Adrien Martin (7.3) outperforming peers Albain Forestier and Roch Cousineau (6.9), highlighting training and coaching opportunities.  
+- **Service Quality by Contact Type**: Requests achieved the highest CSAT (7.2), compared to Queries (6.9) and Complaints (6.6), showing dissatisfaction is most pronounced in complaint handling.  
 
 ### **Operational & Weekly Trends**
 - **Order & Revenue Profile**: Across 794 orders, the business generated ₹2,38,246 in revenue with average revenue per order at ₹300.06 and average discount at ₹251.92.  
