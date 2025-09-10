@@ -3,7 +3,7 @@
 This project is a suite of three interactive Excel dashboards: Customer Service, Finance, and Orders Management, built to showcase how spreadsheet tools can transform raw business data into actionable insights. By combining KPI tracking, time-series analysis, and interactive filtering, the dashboards provide a 360-degree view of a food chain’s operations, covering sales performance, customer satisfaction, and financial trends. The project leverages advanced Excel features such as PivotTables, PivotCharts, Slicers, and Conditional Formatting to deliver clean, user-friendly, and data-driven decision support.
 <br>
 </br>
-<img width="2000" height="350" alt="Image" src="https://github.com/user-attachments/assets/50fb341b-bbbb-4664-af9e-eb22dbedce36" />
+<img width="2000" height="350" alt="Image" src="https://github.com/user-attachments/assets/871bba45-652c-44ea-8ff6-6e6946df5446" />
 <br>
 </br>
 ### Access the Dashboards
